@@ -1,0 +1,1 @@
+# gitea-repository-settings
